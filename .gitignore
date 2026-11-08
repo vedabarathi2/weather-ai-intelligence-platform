@@ -17,3 +17,6 @@ logs/
 data/
 .DS_Store
 Thumbs.db
+!data/
+data/*
+!data/weather_agent.db
